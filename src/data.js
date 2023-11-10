@@ -40,7 +40,7 @@ export const ProjectsData = {
         },
         {
             title: 'Интериорен дизайн',
-            imgUrls: ['./indoorProject/pic1.jpg', './indoorProject/pic2.jpg', './indoorProject/pic3.png', './indoorProject/pic4.png', '/indoorProject/pic5.png'],
+            imgUrls: ['./indoorProject/pic1.jpg', './indoorProject/pic2.jpg', './indoorProject/pic3.png', './indoorProject/pic4.png', './indoorProject/pic5.png'],
         },
         {
             title: 'Жилищни сгради',
