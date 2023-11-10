@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   output: 'export',
-  basePath: 'https://solvemate2018.github.io/architecture/',
+  basePath: '/architecture',
 }
 
 module.exports = nextConfig
